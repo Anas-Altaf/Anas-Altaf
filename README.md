@@ -1,4 +1,4 @@
-  #Developer by Passion
+  # Developer by Passion
 - 👋 Hi, I’m @Anas-Altaf
 - 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently learning Full Stack Web Development
