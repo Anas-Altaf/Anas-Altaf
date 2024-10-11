@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Anas-Altaf<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning Java Development<br>💞️ I’m looking to collaborate on Android Projects in Flutter<br>📫 Reach me through email: anasaltaf35@gmail.com<br>⚡ Fun fact: Code never requires updates only the one that was never written!🤦‍♂️
+👋 Hi, I’m Anas-Altaf<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning Java Development<br>💞️ I’m looking to collaborate on Android Projects in Flutter<br>📫 Reach me through email: [Email Now](mailto:anasaltaf35@gmail.com)<br>⚡ Fun fact: Code never requires updates only the one that was never written!🤦‍♂️
 
 
 ## 🌐 Socials:
