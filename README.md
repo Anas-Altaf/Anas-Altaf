@@ -1,7 +1,7 @@
 # 💫 About Me:
 #### 👋 Hi, I’m Anas-Altaf<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning Java Development<br>💞️ I’m looking to collaborate on Android Projects in Flutter<br>📫 Reach me through email: [Email Now](mailto:anasaltaf35@gmail.com)<br>⚡ Fun fact: Code never requires updates only the one that was never written!🤦‍♂️
 ---
-[![](https://visitcount.itsvg.in/api?id=Anas-Altaf&label=Profile%20Views&color=10&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Anas-Altaf&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasaltaf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@azlafiz) 
