@@ -1,7 +1,10 @@
 <!-- Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anas+Altaf+👋;Software+Developer+%7C+AI+Enthusiast;Mobile+%26+Web+App+Support+%7C+Flutter+%26+React+Native;Python+%7C+Full+Stack+Developer;Building+and+Fixing+Things+That+Work!" alt="Typing SVG" />
+  <a href="https://anasaltaf.o2omation.com">
+    <img src="https://readme-typing-svg.vercel.app?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anas+Altaf+👋;Software+Developer+%7C+AI+Enthusiast;Mobile+%26+Web+App+Support;Flutter+%7C+React+Native+%7C+Python;Debugging+%7C+Building+%7C+Improving" alt="Anas Altaf Typing Animation" />
+  </a>
 </h1>
+
 
 <p align="center">
   <a href="https://anasaltaf.o2omation.com" target="_blank">🌐 Visit My Portfolio</a>
