@@ -13,8 +13,8 @@
 ---
 
 # 💫 About Me:
-👀 Passionate about **Software Development & AI/ML Projects**  
-🌱 Currently learning **Full-Stack Web & Python for Data Science**  
+👀 Passionate about **App Development & AI/ML Projects**  
+🌱 Currently learning **Machien Learning**  
 💬 Providing **Technical Support, Bug Fixing, Build Help, and Feature Improvements**  
 💞️ Open to collaborate on **AI-integrated Apps and Web Projects**  
 📫 Reach me → [anasaltaf35@gmail.com](mailto:anasaltaf35@gmail.com)  
