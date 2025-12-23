@@ -22,7 +22,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials: **![GitHub Views](https://komarev.com/ghpvc/?username=anas-altaf)**
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0163e1f445b708b1d1)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasaltaf)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@anas0altaf)
@@ -67,4 +67,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anas-Altaf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-![GitHub Views](https://komarev.com/ghpvc/?username=anas-altaf)
