@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <h1 align="center">
-  <a href="https://anasaltaf.o2omation.com">
+  <a href="https://anasaltaf.dev">
     <img src="https://readme-typing-svg.vercel.app?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anas+Altaf+👋;Software+Engineer+%7C+AI+Enthusiast;Mobile+%26+Web+App+Support;Flutter+%7C+React+Native+%7C+Python;Debugging+%7C+Building+%7C+Improving" alt="Anas Altaf Typing Animation" />
   </a>
 </h1>
