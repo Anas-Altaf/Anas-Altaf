@@ -13,13 +13,17 @@
 ---
 
 # 💫 About Me:
-👀 Passionate about **App Development & AI/ML Projects**  
-🌱 Currently learning **Machien Learning**  
-💬 Providing **Technical Support, Bug Fixing, Build Help, and Feature Improvements**  
-💞️ Open to collaborate on **AI-integrated Apps and Web Projects**  
-📫 Reach me → [anasaltaf35@gmail.com](mailto:anasaltaf35@gmail.com)  
-⚡ Fun fact: *Code never needs updates... unless it exists.* 😅
+👀 Passionate about **Cloud-Native & DevOps Engineering** — architecting scalable, automated, zero-downtime systems.
 
+🌱 Deep into **DevOps with AWS** — hands-on with IaC (Terraform/CDK), CI/CD mastery, Docker + Kubernetes, serverless (Lambda mastery), observability, and secure, production-grade cloud setups.
+
+💬 Providing **Technical Support, Bug Fixing, Build & Deployment Troubleshooting, Feature Enhancements**, plus code reviews and optimization magic.
+
+💞️ Open to collaborate on **AI-integrated Apps, Web Projects**, cloud-native solutions, automation tools, and innovative full-stack experiments.
+
+📫 Reach me → [anasaltaf35@gmail.com](mailto:anasaltaf35@gmail.com)
+
+⚡ Fun fact: *Code never needs updates... unless it exists.* 😅
 ---
 
 ## 🌐 Socials: **![GitHub Views](https://komarev.com/ghpvc/?username=anas-altaf)**
