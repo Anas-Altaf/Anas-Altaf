@@ -13,11 +13,10 @@
 ---
 
 # 💫 About Me:
-👀 Passionate about **Cloud-Native & DevOps Engineering** — architecting scalable, automated, zero-downtime systems.
 
-🌱 Deep into **DevOps with AWS** — hands-on with IaC (Terraform/CDK), CI/CD mastery, Docker + Kubernetes, serverless (Lambda mastery), observability, and secure, production-grade cloud setups.
+**Software Engineer** focused on building scalable, efficient, and maintainable systems.
 
-💬 Providing **Technical Support, Bug Fixing, Build & Deployment Troubleshooting, Feature Enhancements**, plus code reviews and optimization magic.
+💬 Fixing bugs, optimizing performance, enhancing features, and writing clean, reliable code.
 
 💞️ Open to collaborate on **AI-integrated Apps, Web Projects**, cloud-native solutions, automation tools, and innovative full-stack experiments.
 
