@@ -6,9 +6,6 @@
 </h1>
 
 
-<p align="center">
-  <a href="https://anasaltaf.dev" target="_blank">🌐 Visit My Portfolio</a>
-</p>
 
 ---
 
