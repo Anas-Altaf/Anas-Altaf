@@ -1,69 +1,56 @@
-<!-- Typing SVG Header -->
-<h1 align="center">
-  <a href="https://anasaltaf.dev">
-    <img src="https://readme-typing-svg.vercel.app?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anas+Altaf+👋;Software+Engineer+%7C+AI+Enthusiast;Mobile+%26+Web+App+Support;Flutter+%7C+React+Native+%7C+TypeScript+%7C+NestJs;Debugging+%7C+Building+%7C+Improving" alt="Anas Altaf Typing Animation" />
-  </a>
-</h1>
+# Anas Altaf
 
+**Backend & full-stack engineer — TypeScript · NestJS · Next.js · Python.**
+I build the unglamorous infrastructure that makes unreliable AI safe to ship.
 
+Two years building production systems for US and European teams, while finishing a BSc in Software Engineering at FAST-NUCES. Most of my work lives in private client repos, so the design notes below are how I show the reasoning instead.
 
----
-
-# 💫 About Me:
-
-**Software Engineer** focused on building scalable, efficient, and maintainable systems.
-
-💬 Fixing bugs, optimizing performance, enhancing features, and writing clean, reliable code.
-
-💞️ Open to collaborate on **AI-integrated Apps, Web Projects**, cloud-native solutions, automation tools, and innovative full-stack experiments.
-
-📫 Reach me → [anasaltaf35@gmail.com](mailto:anasaltaf35@gmail.com)
-
-⚡ Fun fact: *Code never needs updates... unless it exists.* 😅
----
-
-## 🌐 Socials: **![GitHub Views](https://komarev.com/ghpvc/?username=anas-altaf)**
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasaltaf)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@anas0altaf)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/anas0altaf)
-
+📍 Faisalabad, Pakistan (UTC+5) · open to remote · [anasaltaf.dev](https://anasaltaf.dev) · [LinkedIn](https://linkedin.com/in/anasaltaf) · anasaltaf35@gmail.com
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+## What I actually work on
+
+### 🧠 Grounded LLM systems
+Agentic RAG over a vetted corpus — a bounded LangGraph state machine, native vector search with hard pre-filters, and a validation step that refuses to answer rather than fabricate. Money figures never come from the model.
+
+→ **[Grounded retrieval you can put in front of customers](notes/grounded-rag.md)**
+
+### ⚙️ AI generation pipelines
+Three generation paths orchestrating five external AI APIs with different latency profiles and failure modes, self-scheduling agents that publish without a human in the loop, and the concurrency control that stops cron and user triggers from double-firing.
+
+→ **[Orchestrating unreliable AI APIs](notes/ai-generation-pipelines.md)**
+
+### 📦 Delivery you can trust
+Multi-tenant backends where "sent twice" costs a customer — provider abstractions held to shared contract tests, fail-closed access control, and a reserve-before-send ledger for exactly-once outbound.
+
+→ **[Exactly-once outbound delivery](notes/exactly-once-delivery.md)**
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anas-Altaf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anas-Altaf&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Altaf&theme=transparent&hide_border=false&layout=compact)
+## Stack
+
+| | |
+|---|---|
+| **Languages** | TypeScript · Python · Dart · SQL |
+| **Backend** | NestJS · Fastify · Express · FastAPI · REST · SSE · WebSockets · Zod / Pydantic |
+| **Frontend** | Next.js · React · React Native · Flutter |
+| **Data** | MongoDB · PostgreSQL · Firestore · Redis · Firestore vector search |
+| **AI / LLM** | OpenAI · Gemini · Vertex AI · LangGraph · OpenRouter · structured outputs · embeddings & retrieval |
+| **Cloud** | AWS (EC2, S3, ECS, Lambda, RDS, IAM) · Docker · GitHub Actions · Vercel · Cloud Run |
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anas-Altaf&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+## Selected work
+
+| Project | What it is |
+|---|---|
+| **AdShort.ai** | AI video-ad platform — sole engineer, architecture through production. [adshort.ai](https://adshort.ai) |
+| **Decision-support platform** | Grounded RAG engine over an approved corpus, with citation enforcement and escalation. |
+| **COVR** | Multi-tenant hospitality operations — WhatsApp ordering channel, exactly-once delivery. |
+| **AslasChat** | Multi-tenant SaaS for document-grounded chatbots. [repo](https://github.com/Anas-Altaf/Aslase-Chat) |
+| **MoneyMouthy** | Flutter app shipped to Google Play and the App Store. |
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anas-Altaf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
+*Open to backend / full-stack roles — remote, Pakistan, or Gulf. Email or LinkedIn; I reply the same day.*
