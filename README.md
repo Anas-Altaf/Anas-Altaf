@@ -1,11 +1,11 @@
 # Anas Altaf
 
-**Backend & full-stack engineer — TypeScript · NestJS · Next.js · Python.**
+**Full-stack software engineer — backend & AI.** TypeScript · NestJS · Next.js · Python.
 I build the unglamorous infrastructure that makes unreliable AI safe to ship.
 
 Two years building production systems for US and European teams, while finishing a BSc in Software Engineering at FAST-NUCES. Most of my work lives in private client repos, so the design notes below are how I show the reasoning instead.
 
-📍 Faisalabad, Pakistan (UTC+5) · open to remote · [anasaltaf.dev](https://anasaltaf.dev) · [LinkedIn](https://linkedin.com/in/anasaltaf) · anasaltaf35@gmail.com
+📍 Pakistan (UTC+5) · open to remote · [anasaltaf.dev](https://anasaltaf.dev) · [LinkedIn](https://linkedin.com/in/anasaltaf) · anasaltaf35@gmail.com
 
 ---
 
@@ -53,4 +53,4 @@ Multi-tenant backends where "sent twice" costs a customer — provider abstracti
 
 ---
 
-*Open to backend / full-stack roles — remote, Pakistan, or Gulf. Email or LinkedIn; I reply the same day.*
+*Open to full-stack and backend roles — remote, Pakistan, or Gulf. Email or LinkedIn; I reply the same day.*
