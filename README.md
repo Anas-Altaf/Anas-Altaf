@@ -5,7 +5,7 @@ I build the unglamorous infrastructure that makes unreliable AI safe to ship.
 
 Two years building production systems for US and European teams, while finishing a BSc in Software Engineering at FAST-NUCES. Most of my work lives in private client repos, so the design notes below are how I show the reasoning instead — and [Atrium](https://github.com/Anas-Altaf/atrium-studio-booking) is public, deployed, and runnable end to end if you'd rather just read the code.
 
-📍 Pakistan (UTC+5) · open to remote · [anasaltaf.dev](https://anasaltaf.dev) · [LinkedIn](https://linkedin.com/in/anasaltaf) · anasaltaf35@gmail.com
+📍 Pakistan (UTC+5) · open to remote · [LinkedIn](https://linkedin.com/in/anasaltaf) · anasaltaf35@gmail.com
 
 ---
 
